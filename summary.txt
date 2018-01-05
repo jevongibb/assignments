@@ -1,0 +1,176 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         7 characters
+	Most common values:    G000552 (264x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         18 characters
+	Most common values:    HON. LOUIE GOHMERT (264x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (264x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         28 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (264x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         8
+	Longest value:         30 characters
+	Most common values:    RENT  COMMUNICATION  UTILITIES (75x)
+	                       SUPPLIES AND MATERIALS (74x)
+	                       PERSONNEL COMPENSATION (40x)
+	                       TRAVEL (35x)
+	                       OTHER SERVICES (17x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  True (excluded from calculations)
+	Unique values:         46
+	Smallest value:        2017-01-03
+	Largest value:         2017-03-31
+	Most common values:    None (40x)
+	                       2017-02-17 (16x)
+	                       2017-01-09 (15x)
+	                       2017-03-28 (12x)
+	                       2017-02-16 (10x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         4
+	Longest value:         2 characters
+	Most common values:    AP (193x)
+	                       None (40x)
+	                       GL (30x)
+	                       AR (1x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         167
+	Longest value:         10 characters
+	Most common values:    None (40x)
+	                       E0499264 (10x)
+	                       E0486491 (7x)
+	                       E0499266 (6x)
+	                       EMS0066096 (5x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         71
+	Longest value:         40 characters
+	Most common values:    None (30x)
+	                       VOGT LORI A. (28x)
+	                       CITIBANK GOV CARD SERVICE (25x)
+	                       AT&T (15x)
+	                       COHEN CHELSEA M. (10x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         101
+	Smallest value:        2015-05-25
+	Largest value:         2017-12-30
+	Most common values:    2017-01-01 (32x)
+	                       2017-01-03 (27x)
+	                       2017-02-01 (16x)
+	                       2016-12-01 (12x)
+	                       2017-03-01 (8x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         109
+	Smallest value:        2015-05-25
+	Largest value:         2018-12-30
+	Most common values:    2017-03-31 (26x)
+	                       2017-02-28 (23x)
+	                       2017-01-02 (20x)
+	                       2017-01-31 (18x)
+	                       2016-12-31 (13x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         45
+	Longest value:         39 characters
+	Most common values:    OFFICE SUPPLIES (OUTSIDE) (29x)
+	                       TELECOMSRV/EQ/TOLL CHARGE (22x)
+	                       COMMERCIAL TRANSPORTATION (21x)
+	                       FOOD & BEVERAGE (16x)
+	                       DISTRICT OFFICE RENT (PRIVATE) (15x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         216
+	Smallest value:        -11,880
+	Largest value:         41,164.43
+	Sum:                   310,992.85
+	Mean:                  1,178.003
+	Median:                182.52
+	StDev:                 3,924.564
+	Most common values:    125.18 (5x)
+	                       434.7 (4x)
+	                       85 (4x)
+	                       75 (4x)
+	                       300 (3x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         4
+	Smallest value:        2,015
+	Largest value:         2,018
+	Sum:                   532,405
+	Mean:                  2,016.686
+	Median:                2,017
+	StDev:                 0.512
+	Most common values:    2,017 (178x)
+	                       2,016 (80x)
+	                       2,018 (3x)
+	                       2,015 (3x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         71
+	Longest value:         40 characters
+	Most common values:    None (30x)
+	                       VOGT LORI A. (28x)
+	                       CITIBANK GOV CARD SERVICE (25x)
+	                       AT&T (15x)
+	                       COHEN CHELSEA M. (10x)
+
+Row count: 264
